@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! 👋, I'm Michael Hodgkins</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelhodgkins&label=Profile%20views&color=0e75b6&style=flat" alt="michaelhodgkins" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelhodgkins&label=Profile%20views&color=0e75b6&style=flat" alt="michaelhodgkins" /> </p> -->
 
 - 🌱 I’m currently learning **Javascript, REACT and Three.js**
 
